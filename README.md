@@ -12,6 +12,7 @@ ToC split by SaaS and OSS (Open Source Software):
 9. [Knowledge Management](#9-knowledge-management)
 10. [Database Modeler](#10-database-modeler)
 11. [Data Discovery](#11-data-discovery-and-metadata)
+12. [Behavioral Analytics](#12-behavioral-analytics)
 
 - #### 1. Monitoring and Alerting
   - **SaaS**
@@ -208,3 +209,8 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
     - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
     - [Metacat](https://github.com/Netflix/metacat) by Netflix
+    
+- ### 12. Behavioral Analytics
+  - **SaaS**
+    - [Indicative](https://www.indicative.com/)
+    
